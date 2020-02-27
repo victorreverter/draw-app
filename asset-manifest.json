@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draw-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/draw-app/static/js/main.3536dc47.chunk.js",
+    "main.js.map": "/draw-app/static/js/main.3536dc47.chunk.js.map",
+    "runtime-main.js": "/draw-app/static/js/runtime-main.a508d52e.js",
+    "runtime-main.js.map": "/draw-app/static/js/runtime-main.a508d52e.js.map",
+    "static/js/2.a4deadab.chunk.js": "/draw-app/static/js/2.a4deadab.chunk.js",
+    "static/js/2.a4deadab.chunk.js.map": "/draw-app/static/js/2.a4deadab.chunk.js.map",
+    "index.html": "/draw-app/index.html",
+    "precache-manifest.bfe0c33af3bb78e13be622bdb7e2b665.js": "/draw-app/precache-manifest.bfe0c33af3bb78e13be622bdb7e2b665.js",
+    "service-worker.js": "/draw-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/draw-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a4deadab.chunk.js.LICENSE.txt": "/draw-app/static/js/2.a4deadab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/draw-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a508d52e.js",
+    "static/js/2.a4deadab.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3536dc47.chunk.js"
+  ]
+}
