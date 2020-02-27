@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/draw-app/static/css/main.56aa24a9.chunk.css",
-    "main.js": "/draw-app/static/js/main.318c3658.chunk.js",
-    "main.js.map": "/draw-app/static/js/main.318c3658.chunk.js.map",
+    "main.css": "/draw-app/static/css/main.1d4309a7.chunk.css",
+    "main.js": "/draw-app/static/js/main.fa4e56f9.chunk.js",
+    "main.js.map": "/draw-app/static/js/main.fa4e56f9.chunk.js.map",
     "runtime-main.js": "/draw-app/static/js/runtime-main.a508d52e.js",
     "runtime-main.js.map": "/draw-app/static/js/runtime-main.a508d52e.js.map",
     "static/js/2.8acee2a3.chunk.js": "/draw-app/static/js/2.8acee2a3.chunk.js",
     "static/js/2.8acee2a3.chunk.js.map": "/draw-app/static/js/2.8acee2a3.chunk.js.map",
     "index.html": "/draw-app/index.html",
-    "precache-manifest.6624307750021f42be999ad3758c0d88.js": "/draw-app/precache-manifest.6624307750021f42be999ad3758c0d88.js",
+    "precache-manifest.27471cda400e964a273bde1e086d7f4b.js": "/draw-app/precache-manifest.27471cda400e964a273bde1e086d7f4b.js",
     "service-worker.js": "/draw-app/service-worker.js",
-    "static/css/main.56aa24a9.chunk.css.map": "/draw-app/static/css/main.56aa24a9.chunk.css.map",
+    "static/css/main.1d4309a7.chunk.css.map": "/draw-app/static/css/main.1d4309a7.chunk.css.map",
     "static/js/2.8acee2a3.chunk.js.LICENSE.txt": "/draw-app/static/js/2.8acee2a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a508d52e.js",
     "static/js/2.8acee2a3.chunk.js",
-    "static/css/main.56aa24a9.chunk.css",
-    "static/js/main.318c3658.chunk.js"
+    "static/css/main.1d4309a7.chunk.css",
+    "static/js/main.fa4e56f9.chunk.js"
   ]
 }
